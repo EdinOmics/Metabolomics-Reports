@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "O'Loughlin"
+  given-names: "Jessica"
+  orcid: https://orcid.org/0009-0005-2040-3426
+- family-names: "Moses"
+  given-names: "Tessa"
+title: "Open-source tool to statistically analyse metabolomics data in Python"
+version: 1.0.0
+date-released: 2026-01-12
+url: "https://github.com/plotly/plotly.py"
